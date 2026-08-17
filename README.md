@@ -12,9 +12,9 @@ Load order file for **PZ Leam's Collection**.
 
    `%UserProfile%\Zomboid\Lua\`
 
-   4 Replace the existing `sorted_mods_info.ini` if necessary.
+4 Replace the existing `sorted_mods_info.ini` if necessary.
 
-5. Launch `Project Zomboid`.
+5. Launch Project Zomboid.
 
 ## About the file
 
