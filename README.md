@@ -18,7 +18,7 @@ Load order file for **PZ Leam's Collection**.
 
 ## About the file
 
-This file contains the recommended mod load order for the collection, but obviously, Feel free to edit it as you like
+This file contains the recommended mod load order for the collection, but obviously, feel free to edit it as you like
 
 ## Security
 
