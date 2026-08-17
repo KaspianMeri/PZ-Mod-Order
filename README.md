@@ -1,3 +1,15 @@
-Download `sorted_mods_info.ini` and place it in:
+# PZ Leam's Collection - Mod Order
 
-C:\Users\<YourWindowsUsername>\Zomboid\Lua\sorted_mods_info.ini
+Load order file for **PZ Leam's Collection**.
+
+## Installation
+
+1. Download `sorted_mods_info.ini`.
+2. Place it in:
+
+   `%UserProfile%\Zomboid\Lua\`
+
+3. Replace the existing `sorted_mods_info.ini` if necessary.
+4. Launch Project Zomboid.
+
+This file contains the recommended mod load order for the collection. You can edit it as you like
