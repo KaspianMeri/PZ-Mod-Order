@@ -1,5 +1,7 @@
 # PZ Leam's Collection - Mod Order
 
+!Back up your existing file if you want to preserve your current mod order!
+
 Load order file for **PZ Leam's Collection**.
 
 ## Installation
@@ -13,5 +15,3 @@ Load order file for **PZ Leam's Collection**.
 4. Launch Project Zomboid.
 
 This file contains the recommended mod load order for the collection. Feel free to edit it as you like
-
-!Back up your existing file if you want to preserve your current mod order!
