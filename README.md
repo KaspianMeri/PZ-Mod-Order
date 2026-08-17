@@ -13,7 +13,10 @@ Load order file for **PZ Leam's Collection**.
 
 3. Replace the existing `sorted_mods_info.ini` if necessary.
 4. Launch Project Zomboid.
-5. This file contains the recommended mod load order for the collection, but obviously, Feel free to edit it as you like
+
+## About the file
+
+This file contains the recommended mod load order for the collection, but obviously, Feel free to edit it as you like
 
 ## Security
 
