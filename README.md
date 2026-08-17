@@ -17,7 +17,7 @@ Load order file for **PZ Leam's Collection**.
 
 ## Security
 
-I am also providing the [VirusTotal](aboutblank_https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection) scan results for the sorted_mods_info.ini file.
+I am also providing the [VirusTotal](https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection) scan results for the sorted_mods_info.ini file.
 
 Cheers.
 
