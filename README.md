@@ -1,1 +1,3 @@
-Copy and paste this file into C:\Users\DESKTOK-F45UP3\Zomboid\Lua(\sorted_mods_info.ini)
+Download `sorted_mods_info.ini` and place it in:
+
+C:\Users\<YourWindowsUsername>\Zomboid\Lua\sorted_mods_info.ini
