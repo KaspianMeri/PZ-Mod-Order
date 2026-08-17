@@ -23,3 +23,5 @@ This file contains the recommended mod load order for the collection, but obviou
 ## Security
 
 I am also providing the [VirusTotal](https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection) scan results for the `sorted_mods_info.ini` file.
+
+SHA : fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e
