@@ -16,6 +16,6 @@ Load order file for **PZ Leam's Collection**.
 
 ## Security
 
-Je vous fournis également le virus total du fichier sorted_mods_info.ini. [url=[https://github.com/KaspianMeri/PZ-Mod-Order](https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection)]VirusTotal[/url]
+I am also providing the VirusTotal scan results for the sorted_mods_info.ini fil. [eVirusTotal](https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection)
 
 This file contains the recommended mod load order for the collection. Feel free to edit it as you like
