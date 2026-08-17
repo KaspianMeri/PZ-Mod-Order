@@ -11,8 +11,9 @@ Load order file for **PZ Leam's Collection**.
 3. Place it in:
 
    `%UserProfile%\Zomboid\Lua\`
-
+   
 4 Replace the existing `sorted_mods_info.ini` if necessary.
+
 5. Launch Project Zomboid.
 
 ## About the file
