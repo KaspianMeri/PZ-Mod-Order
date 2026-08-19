@@ -1,4 +1,4 @@
-# PZ Leam's Collection - Mod Order - B42.20 - August 2026
+# PZ Leam's Collection - Mod Order - B42.20 - August 19 2026
 
 !Back up your existing file if you want to preserve your current mod order!
 
@@ -6,13 +6,13 @@ Load order file for **PZ Leam's Collection**.
 
 ## Installation
 
-1. Subscribe to all the mods in the collection
-2. Download `sorted_mods_info.ini`.
+1. Decide whether you want to use the optional collection.
+2. Subscribe to all the mods in the collection (+ the optional if you chose to use it)
+2. Download `default.txt` from the released you want.
+4. Rename the existing `default.txt`as `OLDdefault.txt`.
 3. Place it in:
 
-   `%UserProfile%\Zomboid\Lua\`
-   
-4. Replace the existing `sorted_mods_info.ini` if necessary.
+   `%UserProfile%\Zomboid\mod\`
 
 5. Launch `Project Zomboid`.
 
@@ -22,6 +22,10 @@ This file contains the recommended mod load order for the collection, but obviou
 
 ## Security
 
-I am also providing the [VirusTotal](https://www.virustotal.com/gui/file/fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e/detection) scan results for the `sorted_mods_info.ini` file.
+It's just a .txt file, so a VirusTotal is probably overkill. But...
 
-SHA : fa6c6d6459a749633c15614711f1bf2b714451c53d86d2ac4212934814ae358e
+I am providing the scan results for both of the files anyway.
+
+Main Collection : [VirusTotal](https://www.virustotal.com/gui/file/199c6d0c83b5124ac0409e23a7dcb9ba05b178fdc06ebed84f2c55aef12cc060).
+
+Main + optional collection : [VirusTotal](https://www.virustotal.com/gui/file/b0e15114b8de9d50f32b5619df3c23214e4dd9265083667d335b9d39e7c805d9).
