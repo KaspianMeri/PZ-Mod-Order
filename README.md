@@ -8,7 +8,7 @@ Load order file for **PZ Leam's Collection**.
 
 1. Decide whether you want to use the optional collection.
 2. Subscribe to all the mods in the collection (+ the optional if you chose to use it)
-2. Download `default.txt` from the released you want.
+2. Download `default.txt` from the release you want.
 4. Rename the existing `default.txt`as `OLDdefault.txt`.
 3. Place it in:
 
