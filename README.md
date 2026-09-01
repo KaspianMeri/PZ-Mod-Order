@@ -26,8 +26,11 @@ This file contains the recommended mod load order for the collection, but obviou
 
 I am providing the SHA-256 results for the three files :
 
-Main Collection : 06a8edb2c0adeaba76422b0d1e3cb96fe35cc053be0b7f69eb09cf795741238a
+Main Collection :
+06a8edb2c0adeaba76422b0d1e3cb96fe35cc053be0b7f69eb09cf795741238a
 
-Main + optional collection : c00a5b4c546c6c29a70c67de540fcfc46d3fd65f6ea73b0616881618f53e1e2d
+Main + optional collection :
+c00a5b4c546c6c29a70c67de540fcfc46d3fd65f6ea73b0616881618f53e1e2d
 
-Main + Optional collection + fr translation (Project Summer Car) : 5b86d530a8f3610dbc3cce46a8d2409c63dfc0d598ef14c7cb3de7a5dfca420d
+Main + Optional collection + fr translation (Project Summer Car) :
+5b86d530a8f3610dbc3cce46a8d2409c63dfc0d598ef14c7cb3de7a5dfca420d
