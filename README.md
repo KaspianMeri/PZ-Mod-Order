@@ -20,9 +20,3 @@ Load order file for **PZ Leam's Collection**.
 ## About the file
 
 This file contains the recommended mod load order for the collection, but obviously, feel free to edit it as you like
-
-## Identification
-
-I am providing the SHA-256 checksum for the file :
-
-Main / Main + Optional Collection : da41036ccd1242c9ffc5190b8b7e1441156c29c00bb2bd1ea1f5e650262de0d9
