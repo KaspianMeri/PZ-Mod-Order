@@ -6,7 +6,7 @@ Load order file for **PZ Leam's Collection**.
 
 ## Installation
 
-1. Subscribe to all the mods in the [collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3484510193) plus the optional mods if you choose to use them.
+1. Subscribe to all the mods in the [collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3484510193)
 2. Download the file from the release.
 3. Rename the existing `pz_modlist_settings.cfg` to `OLDpz_modlist_settings.cfg`.
 4. Place it in:
@@ -14,8 +14,7 @@ Load order file for **PZ Leam's Collection**.
    `C:\Users\[YourName]\Zomboid\Lua`
 
 5. Launch Project Zomboid.
-6. Go to the mods menu to select the preset collection of your choice.
-7. Play
+6. Play
 
 ## About the file
 
