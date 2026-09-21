@@ -37,7 +37,7 @@ Separately, if none of the above resolves the issue, Project Zomboid may simply 
 ## Increasing RAM allocation (If necessary)
 
 1. In your Steam library, right-click **Project Zomboid -> Manage -> Browse Local Files**, then open `ProjectZomboid64.json` in a text editor.
-2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192` for a light setup, `12288`–`16384` for a very large collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes (MB)).
+2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192` for a light setup, `12288`–`16384` for a very large collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes).
 3. Save and relaunch. Note this file often resets after a Build 42 update, so you may need to redo this step regularly.
 
 ## About the files
