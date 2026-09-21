@@ -2,8 +2,6 @@
 
 Back up your existing files if you want to preserve your current mod order and settings!
 
-Load order and settings pack for **PZ Leam's Collection**.
-
 ## Installation
 
 1. Subscribe to all the mods in the [collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3484510193)
