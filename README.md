@@ -28,7 +28,7 @@ If you see error codes on launch, verify your game files through Steam (or simpl
 
 If errors persist, or the game crashes on load, unsubscribe from **all** your Project Zomboid Workshop subscriptions and resubscribe to only the mods in the collection. This is very often caused by a leftover mod that's still subscribed but no longer part of the mod list — it can conflict silently even if it's disabled in the in-game mod selection menu.
 
-If problems persist despite these steps, unsubscribe from all your mods, uninstall and reinstall the game, then resubscribe to the collection. Note that a base game reinstall does **not** clear your Workshop content cache (`SteamApps\workshop\content\108600`) — if a corrupted, outdated or leftover mod is causing the issue, you may need to manually delete that folder as well before resubscribing.
+If problems persist despite these steps, unsubscribe from all your mods, uninstall and reinstall the game, then resubscribe to the collection. Note that a base game reinstall does **not** clear your Workshop content cache (`C:\Program Files (x86)\Steam\steamapps\workshop\content\108600`) — if a corrupted, outdated or leftover mod is causing the issue, you may need to manually delete that folder as well before resubscribing.
 
 Separately, if none of the above resolves the issue, Project Zomboid may simply not be allocated enough RAM by default to run this many mods smoothly.
 
