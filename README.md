@@ -24,9 +24,9 @@ Back up your existing files if you want to preserve your current mod order and s
 
 ## Troubleshooting
 
-If you see error codes on launch, verify your game files through Steam (or simply restart the game) — in my experience, these usually clear up on their own after that.
+If you see error codes on launch, verify your game files through Steam (or simply restart the game).
 
-If errors persist, or the game crashes on load, unsubscribe from **all** your Project Zomboid Workshop subscriptions and resubscribe to only the mods in the collection. This is very often caused by a leftover mod that's still subscribed but no longer part of the mod list — it can conflict silently even if it's disabled in the in-game mod selection menu.
+If errors persist, or the game crashes on load, unsubscribe from **all** your Project Zomboid Workshop subscriptions and resubscribe to only the mods in the collection. This is very often caused by a leftover mod that's still subscribed but no longer part of the mod list — it can leave files or configuration data behind and can sometimes interfere.
 
 If problems persist despite these steps, unsubscribe from all your mods, uninstall and reinstall the game, then resubscribe to the collection. Note that a base game reinstall does **not** clear your Workshop content cache (`C:\Program Files (x86)\Steam\steamapps\workshop\content\108600`) — if a corrupted, outdated or leftover mod is causing the issue, you may need to manually delete that folder as well before resubscribing.
 
