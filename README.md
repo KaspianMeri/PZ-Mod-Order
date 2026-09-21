@@ -35,8 +35,8 @@ Separately, if the game runs out of Java heap memory while loading or playing wi
 ## Increasing Java heap allocation (If necessary)
 
 1. In your Steam library, right-click **Project Zomboid -> Manage -> Browse Local Files**, then open `ProjectZomboid64.json` in a text editor.
-2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192 MB` is a suggested starting point; `12288`–`16384 MB` for a very large and heavy collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes). Do not allocate your entire RAM to the Java heap; leave enough memory for Windows, other applications, and non-heap memory used by the game and JVM.
-3. Save and relaunch. Note this file often resets after a Build 42 update, so you may need to redo this step regularly.
+2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192 MB` is a suggested starting point; `12288`–`16384 MB` for a very large and heavy collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes). Do not allocate your entire RAM to the Java heap, leave enough memory for Windows, other applications, and non-heap memory used by the game and JVM.
+3. Save and relaunch. Note this file mostly —though not always— resets after a Build 42 update, so you may need to redo this step regularly.
 
 ## About the files
 
