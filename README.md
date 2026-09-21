@@ -30,12 +30,12 @@ If the game crashes on load, unsubscribe from **all** your Project Zomboid Works
 
 If problems persist despite these steps, unsubscribe from all your mods, uninstall and reinstall the game, then resubscribe to the collection. Note that a base game reinstall does **not** clear your Workshop content cache (`C:\Program Files (x86)\Steam\steamapps\workshop\content\108600`) — if a corrupted, outdated or leftover mod is causing the issue, you may need to manually delete that folder as well before resubscribing.
 
-Separately, if the game runs out of Java heap memory while loading or playing with a large number of mods, increasing the -Xmx value may help prevent crashes caused by insufficient memory.
+Separately, if the game runs out of Java heap memory while loading or playing with a large number of mods, increasing the `-Xmx` value may help prevent crashes caused by insufficient memory.
 
-## Increasing RAM allocation (If necessary)
+## Increasing Java heap allocation allocation (If necessary)
 
 1. In your Steam library, right-click **Project Zomboid -> Manage -> Browse Local Files**, then open `ProjectZomboid64.json` in a text editor.
-2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192` is a suggested starting points, `12288`–`16384` for a very large and heavy collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes).Do not allocate more memory than your system can comfortably spare.
+2. Find the line containing `-Xmx` (inside the `"vmArgs"` array) (e.g. `"-Xmx3072m",`) and change the number: `8192` is a suggested starting point; `12288`–`16384` for a very large and heavy collection. Keep the trailing comma and the `m` suffix (m defines the memory usage in megabytes). Do not allocate more memory than your system can comfortably spare.
 3. Save and relaunch. Note this file often resets after a Build 42 update, so you may need to redo this step regularly.
 
 ## About the files
