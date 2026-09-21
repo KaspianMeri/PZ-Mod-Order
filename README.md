@@ -10,11 +10,11 @@ Back up your existing files if you want to preserve your current mod order and s
    - `pz_modlist_settings.cfg` to `OLDpz_modlist_settings.cfg`
    - `ModOptions.ini` to `OLDModOptions.ini`
    - `YourSandboxPreset` to `OLDYourSandboxPreset`
-4. Copy the contents of the **Lua** folder into:
+4. Copy the **Lua** folder into:
 
    `C:\Users\[YourName]\Zomboid\Lua`
 
-5. Copy the contents of the **Sandbox Presets** folder into:
+5. Copy the **Sandbox Presets** folder into:
 
    `C:\Users\[YourName]\Zomboid\Sandbox Presets`
 
