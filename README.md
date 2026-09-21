@@ -46,4 +46,4 @@ Separately, if none of the above resolves the issue, Project Zomboid may simply 
 - `ModOptions.ini` — per-mod in-game option toggles matching this setup.
 - `Leam's Sandbox.cfg` — the sandbox preset tuned for this collection.
 
-Feel free to edit any of them as you like — nothing here is locked in.
+Feel free to edit any of them as you like. Nothing here is locked in.
