@@ -42,7 +42,7 @@ Separately, if none of the above resolves the issue, Project Zomboid may simply 
 
 ## About the files
 
-- `pz_modlist_settings.cfg` — the recommended mod load order for the collection.
+- `pz_modlist_settings.cfg` — the recommended mod order for the collection.
 - `ModOptions.ini` — per-mod in-game option toggles matching this setup.
 - `Leam's Sandbox.cfg` — the sandbox preset tuned for this collection.
 
