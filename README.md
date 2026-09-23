@@ -45,7 +45,7 @@ Feel free to edit any of these files to suit your preferences.
 
 4. Copy the **`Lua`** folder into:
 
-   C:\Users\[YourName]\Zomboid\
+   C:\Users\YourName\Zomboid\
 
    Allow Windows to merge the folders and replace existing files if prompted.
 
@@ -53,7 +53,7 @@ Feel free to edit any of these files to suit your preferences.
 
 5. Copy the **`Sandbox Presets`** folder into:
 
-   C:\Users\[YourName]\Zomboid\
+   C:\Users\YourName\Zomboid\
 
 ---
 
@@ -134,7 +134,7 @@ If the steps above do not resolve the issue, a complete Project Zomboid reset ma
 
 6. Remove the entire Project Zomboid user directory:
 
-   C:\Users\[YourName]\Zomboid\
+   C:\Users\YourName\Zomboid\
 
    > **Warning:** Deleting this folder will remove your local Project Zomboid user data, including saves, configuration files, presets, and other associated files. Make sure you have backed up anything you want to keep before deleting it.
 
